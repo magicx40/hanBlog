@@ -1,0 +1,8 @@
+{
+    "name": "HanBlog",
+    "short_name": "HanBlog",
+    "icons": [],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "gcm_sender_id": "172703745098"
+}
